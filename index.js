@@ -60,3 +60,13 @@ const admin={
     username: "admin",
     password: "password123"
 }
+
+function login(username, password){
+    if(username === admin.username && password === admin.password){
+        console.log("Login Successful");
+    } else {
+        console.log("Login Failed");
+    }
+}
+
+login("admin", "password123");
