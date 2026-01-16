@@ -1,7 +1,7 @@
 console.log("Node.js Backend Started");  // Prints a message to the console indicating the backend has started
 
 let name="nitin";  //Declares a variable 'name' and stores a string value
-let age=24;        //Declares a variable 'age' and stores a numeric value
+let age=20;        //Declares a variable 'age' and stores a numeric value
 const country="India";  //Declares a constant 'country' and stores a string value
 let isstudent=true;   //Declare a variable 'isstudent' and store a boolean value (true/false)
 
@@ -17,9 +17,9 @@ console.log("Score:", score);  //undefined
 console.log("Data:", data);    //null
 
 //object
-let user={
+let user={     //creates an object 'user' with properties
     name: "nitin",
-    age: 24,
+    age: 20,
     country: "India"
     email: nitin16112004@gmail.com
 };
@@ -35,20 +35,20 @@ console.log("Division:", b / a);         //Division
 
 //Conditional Statements
 let ageCheck=18;
-if(ageCheck >= 18){
+if(ageCheck >= 18){   //checks if ageCheck is 18 or older
     console.log(name + " is an adult.");
 } else {
     console.log(name + " is a minor.");
 }
 
 //Loops(for loop)
-for(let i=1; i<=5; i++){
-    console.log("Loop Count:", i);
+for(let i=1; i<=5; i++){      
+    console.log("Loop Count:", i);   //prints the current loop count to the console
 }
 
 //Function
 function add(x,y){
-    return x + y;
+    return x + y;      //returns the sum of x and y
 
 }
 
@@ -58,15 +58,15 @@ console.log("Function Result:", result);  //print the result of the function to 
 //login Credentials
 const admin={
     username: "admin",
-    password: "password123"
+    password: "password123"             
 }
 
 function login(username, password){
-    if(username === admin.username && password === admin.password){
+    if(username === admin.username && password === admin.password){       //checks if the provided username and password match the admin credentials
         console.log("Login Successful");
     } else {
         console.log("Login Failed");
     }
 }
 
-login("admin", "password123");
+login("admin", "password123");     //Test the login function with correct credentials 
