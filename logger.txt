@@ -1,1 +1,0 @@
-this is a log file ${date} and type ${types} and data is${data}
