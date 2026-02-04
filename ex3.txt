@@ -3,5 +3,8 @@ Exercise 3: Conflict Resolution
 2. Modify the same line in a file in both branches
 3. Merge one branch into main
 4. Attempt to merge the second branch
-5. Resolve the conflict manually 
-from feature1 branch
+5. Resolve the conflict manually
+from feature1 and feature2 branch 
+
+
+
