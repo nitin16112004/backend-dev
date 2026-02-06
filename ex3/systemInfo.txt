@@ -1,0 +1,1582 @@
+{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1658750,
+        "nice": 0,
+        "sys": 1437281,
+        "idle": 13301640,
+        "irq": 223281
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1184453,
+        "nice": 0,
+        "sys": 799312,
+        "idle": 14413843,
+        "irq": 73578
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2403953,
+        "nice": 0,
+        "sys": 1234093,
+        "idle": 12759562,
+        "irq": 116484
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1421609,
+        "nice": 0,
+        "sys": 835796,
+        "idle": 14140203,
+        "irq": 62265
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2053531,
+        "nice": 0,
+        "sys": 1175890,
+        "idle": 13168187,
+        "irq": 106671
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1323500,
+        "nice": 0,
+        "sys": 928390,
+        "idle": 14145718,
+        "irq": 82343
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2077578,
+        "nice": 0,
+        "sys": 1077640,
+        "idle": 13242390,
+        "irq": 98109
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1385250,
+        "nice": 0,
+        "sys": 829015,
+        "idle": 14183343,
+        "irq": 69390
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1659156,
+        "nice": 0,
+        "sys": 1437750,
+        "idle": 13305765,
+        "irq": 223406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1184953,
+        "nice": 0,
+        "sys": 799500,
+        "idle": 14418156,
+        "irq": 73640
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2405078,
+        "nice": 0,
+        "sys": 1234421,
+        "idle": 12763109,
+        "irq": 116531
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1422250,
+        "nice": 0,
+        "sys": 836093,
+        "idle": 14144265,
+        "irq": 62281
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2054406,
+        "nice": 0,
+        "sys": 1176125,
+        "idle": 13172078,
+        "irq": 106671
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1324156,
+        "nice": 0,
+        "sys": 928734,
+        "idle": 14149718,
+        "irq": 82359
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2078359,
+        "nice": 0,
+        "sys": 1077890,
+        "idle": 13246359,
+        "irq": 98125
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1385609,
+        "nice": 0,
+        "sys": 829296,
+        "idle": 14187703,
+        "irq": 69390
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1659734,
+        "nice": 0,
+        "sys": 1438187,
+        "idle": 13309750,
+        "irq": 223500
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1185093,
+        "nice": 0,
+        "sys": 799656,
+        "idle": 14422859,
+        "irq": 73656
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2406218,
+        "nice": 0,
+        "sys": 1234656,
+        "idle": 12766734,
+        "irq": 116546
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1422515,
+        "nice": 0,
+        "sys": 836203,
+        "idle": 14148890,
+        "irq": 62296
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2055140,
+        "nice": 0,
+        "sys": 1176421,
+        "idle": 13176046,
+        "irq": 106718
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1324453,
+        "nice": 0,
+        "sys": 929109,
+        "idle": 14154046,
+        "irq": 82375
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2079312,
+        "nice": 0,
+        "sys": 1078218,
+        "idle": 13250078,
+        "irq": 98156
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1385796,
+        "nice": 0,
+        "sys": 829468,
+        "idle": 14192343,
+        "irq": 69406
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1660406,
+        "nice": 0,
+        "sys": 1438703,
+        "idle": 13313562,
+        "irq": 223593
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1185562,
+        "nice": 0,
+        "sys": 799984,
+        "idle": 14427062,
+        "irq": 73687
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2407453,
+        "nice": 0,
+        "sys": 1234984,
+        "idle": 12770171,
+        "irq": 116562
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1423343,
+        "nice": 0,
+        "sys": 836343,
+        "idle": 14152921,
+        "irq": 62296
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2056312,
+        "nice": 0,
+        "sys": 1176703,
+        "idle": 13179593,
+        "irq": 106781
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1325000,
+        "nice": 0,
+        "sys": 929421,
+        "idle": 14158187,
+        "irq": 82406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2080156,
+        "nice": 0,
+        "sys": 1078421,
+        "idle": 13254031,
+        "irq": 98156
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1386375,
+        "nice": 0,
+        "sys": 829593,
+        "idle": 14196640,
+        "irq": 69406
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1660703,
+        "nice": 0,
+        "sys": 1438984,
+        "idle": 13318000,
+        "irq": 223640
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1185765,
+        "nice": 0,
+        "sys": 800156,
+        "idle": 14431703,
+        "irq": 73703
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2408406,
+        "nice": 0,
+        "sys": 1235296,
+        "idle": 12773921,
+        "irq": 116593
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1423656,
+        "nice": 0,
+        "sys": 836437,
+        "idle": 14157531,
+        "irq": 62312
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2057125,
+        "nice": 0,
+        "sys": 1176921,
+        "idle": 13183578,
+        "irq": 106796
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1325312,
+        "nice": 0,
+        "sys": 929656,
+        "idle": 14162656,
+        "irq": 82421
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2080687,
+        "nice": 0,
+        "sys": 1078640,
+        "idle": 13258296,
+        "irq": 98156
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1386687,
+        "nice": 0,
+        "sys": 829734,
+        "idle": 14201203,
+        "irq": 69437
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1673390,
+        "nice": 0,
+        "sys": 1448937,
+        "idle": 13429828,
+        "irq": 225515
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1195031,
+        "nice": 0,
+        "sys": 804859,
+        "idle": 14552203,
+        "irq": 74031
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2435062,
+        "nice": 0,
+        "sys": 1242828,
+        "idle": 12874203,
+        "irq": 117218
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1437078,
+        "nice": 0,
+        "sys": 840515,
+        "idle": 14274500,
+        "irq": 62656
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2077609,
+        "nice": 0,
+        "sys": 1184015,
+        "idle": 13290468,
+        "irq": 107312
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1336593,
+        "nice": 0,
+        "sys": 937234,
+        "idle": 14278265,
+        "irq": 83109
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2100125,
+        "nice": 0,
+        "sys": 1085031,
+        "idle": 13366937,
+        "irq": 98718
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1396250,
+        "nice": 0,
+        "sys": 834609,
+        "idle": 14321234,
+        "irq": 69812
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1674765,
+        "nice": 0,
+        "sys": 1450343,
+        "idle": 13449734,
+        "irq": 225765
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1195921,
+        "nice": 0,
+        "sys": 805828,
+        "idle": 14573031,
+        "irq": 74078
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2438671,
+        "nice": 0,
+        "sys": 1243953,
+        "idle": 12892156,
+        "irq": 117312
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1438328,
+        "nice": 0,
+        "sys": 841046,
+        "idle": 14295406,
+        "irq": 62656
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2080421,
+        "nice": 0,
+        "sys": 1185281,
+        "idle": 13309078,
+        "irq": 107406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1337640,
+        "nice": 0,
+        "sys": 938421,
+        "idle": 14298718,
+        "irq": 83218
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2102781,
+        "nice": 0,
+        "sys": 1085968,
+        "idle": 13386031,
+        "irq": 98812
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1397125,
+        "nice": 0,
+        "sys": 835328,
+        "idle": 14342328,
+        "irq": 69843
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1675140,
+        "nice": 0,
+        "sys": 1450656,
+        "idle": 13452046,
+        "irq": 225828
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1196203,
+        "nice": 0,
+        "sys": 805921,
+        "idle": 14575656,
+        "irq": 74078
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2439406,
+        "nice": 0,
+        "sys": 1244062,
+        "idle": 12894312,
+        "irq": 117343
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1438671,
+        "nice": 0,
+        "sys": 841046,
+        "idle": 14298062,
+        "irq": 62656
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2081046,
+        "nice": 0,
+        "sys": 1185312,
+        "idle": 13311421,
+        "irq": 107406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1337921,
+        "nice": 0,
+        "sys": 938515,
+        "idle": 14301343,
+        "irq": 83250
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2103625,
+        "nice": 0,
+        "sys": 1086078,
+        "idle": 13388078,
+        "irq": 98812
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1397359,
+        "nice": 0,
+        "sys": 835453,
+        "idle": 14344968,
+        "irq": 69843
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1675718,
+        "nice": 0,
+        "sys": 1450906,
+        "idle": 13454218,
+        "irq": 225890
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1196593,
+        "nice": 0,
+        "sys": 806046,
+        "idle": 14578125,
+        "irq": 74093
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2440406,
+        "nice": 0,
+        "sys": 1244375,
+        "idle": 12896000,
+        "irq": 117359
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1439093,
+        "nice": 0,
+        "sys": 841250,
+        "idle": 14300437,
+        "irq": 62671
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2081859,
+        "nice": 0,
+        "sys": 1185609,
+        "idle": 13313312,
+        "irq": 107406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1338500,
+        "nice": 0,
+        "sys": 938703,
+        "idle": 14303578,
+        "irq": 83250
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2104468,
+        "nice": 0,
+        "sys": 1086359,
+        "idle": 13389953,
+        "irq": 98859
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1397750,
+        "nice": 0,
+        "sys": 835625,
+        "idle": 14347406,
+        "irq": 69859
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1676031,
+        "nice": 0,
+        "sys": 1451031,
+        "idle": 13456796,
+        "irq": 225953
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1196703,
+        "nice": 0,
+        "sys": 806109,
+        "idle": 14580984,
+        "irq": 74093
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2440953,
+        "nice": 0,
+        "sys": 1244546,
+        "idle": 12898296,
+        "irq": 117406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1439312,
+        "nice": 0,
+        "sys": 841281,
+        "idle": 14303203,
+        "irq": 62671
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2082359,
+        "nice": 0,
+        "sys": 1185718,
+        "idle": 13315718,
+        "irq": 107406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1338671,
+        "nice": 0,
+        "sys": 938750,
+        "idle": 14306375,
+        "irq": 83250
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2105125,
+        "nice": 0,
+        "sys": 1086453,
+        "idle": 13392218,
+        "irq": 98859
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1397843,
+        "nice": 0,
+        "sys": 835656,
+        "idle": 14350296,
+        "irq": 69875
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1676281,
+        "nice": 0,
+        "sys": 1451250,
+        "idle": 13459343,
+        "irq": 225984
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1196843,
+        "nice": 0,
+        "sys": 806187,
+        "idle": 14583781,
+        "irq": 74109
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2441562,
+        "nice": 0,
+        "sys": 1244687,
+        "idle": 12900562,
+        "irq": 117406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1439625,
+        "nice": 0,
+        "sys": 841343,
+        "idle": 14305843,
+        "irq": 62671
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2082890,
+        "nice": 0,
+        "sys": 1185921,
+        "idle": 13318000,
+        "irq": 107421
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1338890,
+        "nice": 0,
+        "sys": 938859,
+        "idle": 14309062,
+        "irq": 83250
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2105828,
+        "nice": 0,
+        "sys": 1086687,
+        "idle": 13394296,
+        "irq": 98875
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1397968,
+        "nice": 0,
+        "sys": 835734,
+        "idle": 14353109,
+        "irq": 69875
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1676468,
+        "nice": 0,
+        "sys": 1451437,
+        "idle": 13461984,
+        "irq": 226046
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1196921,
+        "nice": 0,
+        "sys": 806250,
+        "idle": 14586656,
+        "irq": 74109
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2442140,
+        "nice": 0,
+        "sys": 1244953,
+        "idle": 12902734,
+        "irq": 117406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1439890,
+        "nice": 0,
+        "sys": 841406,
+        "idle": 14308531,
+        "irq": 62687
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2083437,
+        "nice": 0,
+        "sys": 1186093,
+        "idle": 13320296,
+        "irq": 107437
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1339046,
+        "nice": 0,
+        "sys": 939015,
+        "idle": 14311765,
+        "irq": 83250
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2106421,
+        "nice": 0,
+        "sys": 1086843,
+        "idle": 13396562,
+        "irq": 98875
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1398015,
+        "nice": 0,
+        "sys": 835812,
+        "idle": 14356000,
+        "irq": 69875
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1676578,
+        "nice": 0,
+        "sys": 1451546,
+        "idle": 13464765,
+        "irq": 226078
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1196968,
+        "nice": 0,
+        "sys": 806250,
+        "idle": 14589609,
+        "irq": 74109
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2442343,
+        "nice": 0,
+        "sys": 1245093,
+        "idle": 12905390,
+        "irq": 117406
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1439906,
+        "nice": 0,
+        "sys": 841406,
+        "idle": 14311515,
+        "irq": 62687
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2083640,
+        "nice": 0,
+        "sys": 1186156,
+        "idle": 13323031,
+        "irq": 107437
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1339062,
+        "nice": 0,
+        "sys": 939171,
+        "idle": 14314593,
+        "irq": 83250
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2106703,
+        "nice": 0,
+        "sys": 1086937,
+        "idle": 13399187,
+        "irq": 98875
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1398015,
+        "nice": 0,
+        "sys": 835828,
+        "idle": 14358984,
+        "irq": 69875
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1677468,
+        "nice": 0,
+        "sys": 1451906,
+        "idle": 13466515,
+        "irq": 226109
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1197609,
+        "nice": 0,
+        "sys": 806578,
+        "idle": 14591640,
+        "irq": 74109
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2443546,
+        "nice": 0,
+        "sys": 1245343,
+        "idle": 12906937,
+        "irq": 117421
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1440968,
+        "nice": 0,
+        "sys": 841531,
+        "idle": 14313328,
+        "irq": 62718
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2084750,
+        "nice": 0,
+        "sys": 1186359,
+        "idle": 13324718,
+        "irq": 107437
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1340125,
+        "nice": 0,
+        "sys": 939359,
+        "idle": 14316343,
+        "irq": 83281
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2108062,
+        "nice": 0,
+        "sys": 1087062,
+        "idle": 13400703,
+        "irq": 98875
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1398953,
+        "nice": 0,
+        "sys": 835984,
+        "idle": 14360890,
+        "irq": 69890
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1677734,
+        "nice": 0,
+        "sys": 1452125,
+        "idle": 13469046,
+        "irq": 226140
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1197781,
+        "nice": 0,
+        "sys": 806640,
+        "idle": 14594421,
+        "irq": 74125
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2443921,
+        "nice": 0,
+        "sys": 1245484,
+        "idle": 12909437,
+        "irq": 117421
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1441234,
+        "nice": 0,
+        "sys": 841609,
+        "idle": 14316000,
+        "irq": 62718
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2085218,
+        "nice": 0,
+        "sys": 1186515,
+        "idle": 13327109,
+        "irq": 107437
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1340328,
+        "nice": 0,
+        "sys": 939515,
+        "idle": 14319000,
+        "irq": 83281
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2108718,
+        "nice": 0,
+        "sys": 1087171,
+        "idle": 13402953,
+        "irq": 98875
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1399093,
+        "nice": 0,
+        "sys": 836015,
+        "idle": 14363734,
+        "irq": 69890
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1677906,
+        "nice": 0,
+        "sys": 1452343,
+        "idle": 13471656,
+        "irq": 226187
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1197984,
+        "nice": 0,
+        "sys": 806718,
+        "idle": 14597140,
+        "irq": 74125
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2444375,
+        "nice": 0,
+        "sys": 1245703,
+        "idle": 12911765,
+        "irq": 117421
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1441468,
+        "nice": 0,
+        "sys": 841687,
+        "idle": 14318687,
+        "irq": 62734
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2085687,
+        "nice": 0,
+        "sys": 1186750,
+        "idle": 13329406,
+        "irq": 107437
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1340484,
+        "nice": 0,
+        "sys": 939937,
+        "idle": 14321421,
+        "irq": 83312
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2108984,
+        "nice": 0,
+        "sys": 1087390,
+        "idle": 13405468,
+        "irq": 98875
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1399234,
+        "nice": 0,
+        "sys": 836171,
+        "idle": 14366437,
+        "irq": 69890
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}{
+  "cpu": [
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1678093,
+        "nice": 0,
+        "sys": 1452421,
+        "idle": 13474390,
+        "irq": 226187
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1198078,
+        "nice": 0,
+        "sys": 806734,
+        "idle": 14600031,
+        "irq": 74125
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2444671,
+        "nice": 0,
+        "sys": 1245796,
+        "idle": 12914375,
+        "irq": 117421
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1441562,
+        "nice": 0,
+        "sys": 841718,
+        "idle": 14321562,
+        "irq": 62734
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2085937,
+        "nice": 0,
+        "sys": 1186859,
+        "idle": 13332046,
+        "irq": 107468
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1340578,
+        "nice": 0,
+        "sys": 940078,
+        "idle": 14324187,
+        "irq": 83328
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 2109140,
+        "nice": 0,
+        "sys": 1087468,
+        "idle": 13408234,
+        "irq": 98890
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+      "speed": 2112,
+      "times": {
+        "user": 1399234,
+        "nice": 0,
+        "sys": 836218,
+        "idle": 14369390,
+        "irq": 69890
+      }
+    }
+  ],
+  "memory": 8418541568,
+  "platform": "win32"
+}
