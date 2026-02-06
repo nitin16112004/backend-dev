@@ -28,4 +28,10 @@ Answer:Common error codes in file system operations include:
     6) EROFS: Read-only file system. This error occurs when trying to write to a file on a read-only file system.
 
 
+5. How would you safely delete a directory with all its contents?
+Answer:to delete a directory with all its contents safely, you can use the rm command with the -r (recuresive option) and -f (force option).
+SYNTAX:
+rm -rf directory_name
+this command will dlete the directory and all the content inside it without prompting for configuration. however be caution 
+when using this command as it can lead to data loss if used incorrectly.
 
