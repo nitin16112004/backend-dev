@@ -35,3 +35,8 @@ rm -rf directory_name
 this command will dlete the directory and all the content inside it without prompting for configuration. however be caution 
 when using this command as it can lead to data loss if used incorrectly.
 
+
+Ques 6. Explain the concept of piping in streams with an example.
+Answer: Piping in streams is a method of connecting the output of one stream to the input of another stream. it allows data to flow from 
+one stream to another without the need for intermediate storage or manual handling of data. this is particulary useful when 
+working with large data sets or when you want to process data in contigueous manner.
