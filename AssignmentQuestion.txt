@@ -5,5 +5,12 @@ background.
 2)synchronous file operation are easier to understand and debug but can lead to performance issue in large application 
 while asynchronous file operation can inprove performance but can be more complex to implement and debug.
 
+Que 2. When should you use file streams instead of reading the entire file?
+Answer: file streams are more efficient for handling large files or when you want to process data in chunks. they allow you to read 
+or write data increamently without loading the entire file into memory at once which can be beneficial for performance and memeory 
+management. file streams are particularly useful when dealing with large files that may not fit into memory or when 
+you wants to process data as it is being read or written, such as when working with real-time data or when you want to start processing 
+data before the entire file is available.
+
 
 
