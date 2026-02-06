@@ -18,5 +18,14 @@ utf-8 is a widely used charater encoding that can represent a wide range of char
 when you specify utf-8 encoding, it ensures that the text is correctly interpreted and stored, allowing for proper handling of
 special characters and non-english text.
 
+Ques 4. What are the common error codes in file system operations and what do they mean?
+Answer:Common error codes in file system operations include:
+    1) ENOENT: No such file or directory. This error occurs when the specified file or directory does not exist.
+    2) EACCES: Permission denied. This error occurs when the user does not have the necessary permissions to access the file or directory.
+    3) EEXIST: File already exists. This error occurs when trying to create a file that already exists.
+    4) EISDIR: Is a directory. This error occurs when trying to perform a file operation on a directory.
+    5) ENOTDIR: Not a directory. This error occurs when trying to perform a directory operation on a file.
+    6) EROFS: Read-only file system. This error occurs when trying to write to a file on a read-only file system.
+
 
 
