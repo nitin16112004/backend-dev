@@ -1,0 +1,9 @@
+Que 1. What is the difference between synchronous and asynchronous file operations?
+Answer: 1) synchronous file operations block the execution of the program until the operation is complete 
+while asynchronous file operation allows the program to cintinue executing while the file operation is being performed in the 
+background.
+2)synchronous file operation are easier to understand and debug but can lead to performance issue in large application 
+while asynchronous file operation can inprove performance but can be more complex to implement and debug.
+
+
+
