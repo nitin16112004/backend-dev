@@ -12,5 +12,11 @@ management. file streams are particularly useful when dealing with large files t
 you wants to process data as it is being read or written, such as when working with real-time data or when you want to start processing 
 data before the entire file is available.
 
+Que 3. Explain the purpose of the ‘utf8’ encoding parameter in file operations.
+Answer: the utf-8 encoding parameter is file operation is used to specify the charater encoding when raeding or writing Files. 
+utf-8 is a widely used charater encoding that can represent a wide range of characters for different kanguages and symbols.
+when you specify utf-8 encoding, it ensures that the text is correctly interpreted and stored, allowing for proper handling of
+special characters and non-english text.
+
 
 
