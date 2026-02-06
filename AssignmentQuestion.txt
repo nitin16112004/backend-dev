@@ -45,3 +45,9 @@ Que 7. Why is it important to handle errors in file operations?
 answer: Error handling in file operations is essential to manage unpredictable failures such as missing files, permission issues
  or resource limitations, thereby preventing crashes, ensuring data integrity and improving the robustness and reliability
 of the application.
+
+Ques 8. What is the difference between writeFile and appendFile methods?
+Answer:The writeFile method is used to write data to a file. If the file already exists, it will overwrite the existing content.
+If the file does not exist, it will create a new file and write the data to it.
+The appendFile method is used to append data to a file. If the file already exists, it will add the new data to the end of
+the existing content.
