@@ -27,6 +27,10 @@ app.post("/contact",(req,res)=>{
     console.log("Contact form submitted:",req.body);
     res.render("success",{name,email,message});
 })
+app.use((req,res)=>{
+    res.status(404).render("404");
+    
+})
 
 app.listen(8080,()=>{
     console.log("Server is running on port 8080");
