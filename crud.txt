@@ -51,6 +51,22 @@ EX-3:>
     }
 
 
+EX-4:>
+1.Calculate average GPA by department:>
+    db.student.aggregate([{
+        $group:{
+            _id:"$department",
+            avgGPA:{$avg:"$gpa"}
+        }
+    }])
+2.Find most popular courses:>
+    db.student.aggregate([{$group:{_id:"$course",totalStudent:{$sum:1}},{$sort:{totalStudent:-1}}}])
+3.Generate student performance report:>
+    db.student.aggregate([{$group:{
+        _id:"$name",avgScore:{$avg:"$marks.score"},totalSubject:{3}
+    }}])
+
+
 
 //ASSESSMENT ANSWER//
 
