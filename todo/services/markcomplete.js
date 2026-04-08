@@ -4,8 +4,6 @@ import {StatusCodes} from "http-status-codes";
 export function markcomplete(req, res) {
   try {
     const {id}=req.params;
-
-    // ✅ Update status to Completed
     Todo.findByIdAndUpdate(
       id,
       {status:"Completed"},
