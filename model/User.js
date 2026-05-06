@@ -1,33 +1,26 @@
-// User:
-// { id, name, email, passwordHash, role, createdAt }
-
 import mongoose from "mongoose";
 
-const userSchema=new mongoose.Schema({
-    id:{
-        type:String
-
-    },
+const userSchema=new mongoose.Schema(
+  {
     name:{
-        type:String,
-        require:true
-
+      type: String,
+      required: true
     },
     email:{
-        type:String,
-        require:true
+      type: String,
+      unique: true,
+      required: true
     },
     password:{
-        type:string,
-        required:true,
+      type: String,
+      required: true
     },
     role:{
-        type:String,
-        enum:[Admin,user]
-    },
-    createdAt:timeStamp()
-
-
-});
+      type: String,
+      default:"user"
+    }
+  },
+  {timestamps:true}
+);
 
 export default mongoose.model("User",userSchema);

@@ -1,29 +1,23 @@
-// Post:
-
-// { id, userId, title, content, tags[], createdAt }
-
 import mongoose from "mongoose";
 
-
-const postSchema=new mongoose.Schema({
-    id:{
-        type:String
-    },
+const postSchema=new mongoose.Schema(
+  {
     userId:{
-        type:String,    
-        required:true
+      type:mongoose.Schema.Types.ObjectId,
+      ref:"User"
     },
-    title:{ 
-        type:String,    
-        required:true
-    },  
+    title:{
+      type:String,
+      unique:true,
+      required:true
+    },
     content:{
-        type:String,    
-        required:true   
+      type:String,
+      required:true
     },
-    tags:{
-        type:[String]
-    },
-    createdAt:timeStamp()
-});
+    tags:[String]
+  },
+  {timestamps:true}
+);
+
 export default mongoose.model("Post",postSchema);

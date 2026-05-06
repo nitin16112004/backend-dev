@@ -1,25 +1,21 @@
-// Comment:
-// { id, postId, userId, comment, createdAt }
-
 import mongoose from "mongoose";
 
-
-const postSchema=new mongoose.Schema({
-    id:{
-        type:String
-    },
+const commentSchema=new mongoose.Schema(
+  {
     postId:{
-        type:String,
-        required:true
+      type:mongoose.Schema.Types.ObjectId,
+      ref:"Post"
     },
     userId:{
-        type:String,    
-        required:true
+      type:mongoose.Schema.Types.ObjectId,
+      ref:"User"
     },
-    comment:{ 
-        type:String,    
-        required:true
-    },
-    createdAt:timeStamp()
-});
-export default mongoose.model("Post",postSchema);
+    comment:{
+      type:String,
+      required:true
+    }
+  },
+  {timestamps:true}
+);
+
+export default mongoose.model("Comment",commentSchema);
